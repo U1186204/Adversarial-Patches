@@ -1,0 +1,12 @@
+numpy
+scipy
+pillow
+matplotlib
+matplotlib-inline
+seaborn
+tqdm
+torch
+torchvision
+pytorch-lightning
+jupyter
+nbconvert
