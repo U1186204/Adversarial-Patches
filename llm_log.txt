@@ -1,0 +1,13 @@
+Used GEMNI 2.5 PRO on cell that loads imagenet and class labels on 11/2/25 at  5:03pm
+_____________________________________________________________
+Used GEMNI 2.5 PRO on cell that defined baseline evluation and viz functions  on 11/2/25 at  5:40pm
+_____________________________________________________________
+
+Used Used GEMNI 2.5 PRO on cell that defines patch attack on 11/2/25 at  6:52pm
+_____________________________________________________________
+
+Used Used GEMNI 2.5 PRO on cell that defines main patch attack on 11/2/25 at  8:29pm
+_____________________________________________________________
+
+Used Used GEMNI 2.5 PRO on cell does patch testing labels on 11/2/25 at  11:30pm
+_____________________________________________________________
